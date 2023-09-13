@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Who am I?",
+    "section": "",
+    "text": "Hello, thank you for visiting this page.\nMy name is John Shiu and I am a Portfolio Manager at CryptAM.fund. I have been in the crypto industry since 2018, where I have led and worked with different quant to build automated trading infrastructure and develop mid/low-frequency trading strategies. And we have gained extensive knowledge and experience in the field.\nBefore joining CryptAM, I was a data scientist focusing on Hang Seng Index Futures and Crude oil futures.\nAs Portfolio Manager, I oversee the management of our proprietary funds and ensure that the performance is aligned with their financial goals. As you may already know, we keep improving the capability of our portfolios. And this year, we have decided to dedicate more resources to our research, so we have added a quantitative analyst headcount.\nOnce again, thank you for being here today. I look forward to learning more about your experience and how you can contribute to our team’s growth."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "JohnShiu Demo Website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto website visit https://quarto.org/docs/websites."
+  }
+]
